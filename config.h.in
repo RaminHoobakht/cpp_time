@@ -1,0 +1,2 @@
+#define cpp_time_VERSION_MAJOR @cpp_time_VERSION_MAJOR@
+#define cpp_time_VERSION_MINOR @cpp_time_VERSION_MINOR@
