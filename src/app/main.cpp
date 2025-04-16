@@ -1,11 +1,10 @@
-#include <iostream>
-#include <ctime>
+/*   */
+
+#include "main.hpp"
 
 
 int main() {
 
-
-
-    std::cout << "\n #Time(18:09:55): The End ..." << std::endl;
-    return (EXIT_SUCCESS);
+    out << "\n #(00:00:00): The End ..." << end;
+    return EXIT_SUCCESS;
 }
